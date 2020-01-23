@@ -1,0 +1,2 @@
+# ambientacion
+Ambientacion Linux Ubuntu
